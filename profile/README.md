@@ -1,12 +1,7 @@
-## Hi there 👋
+# University of Greenwich Organization Page  <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/114398065?s=200&v=4">        
 
-<!--
+Welcome to the official GitHub organization page for projects hosted by the University of Greenwich! Here you will find repositories for various research, academic, and innovative projects undertaken by our faculty, students, and collaborators.
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The University of Greenwich is a leading institution in higher education, committed to excellence in teaching, research, and innovation. With a rich history dating back to 1890, we pride ourselves on our diverse community, cutting-edge facilities, and impactful contributions to academia and society.
